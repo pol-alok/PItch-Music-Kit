@@ -1,0 +1,276 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:2:1-98:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/bef0fd8bb857fdb3645403d1c6469612/AndroidManifest.xml:17:1-22:12
+MERGED from [:base] /Users/alok/AndroidStudioProjects/ARMusicKit/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/77a182e6b48f5a18f3dc090dc7029640/AndroidManifest.xml:17:1-22:12
+MERGED from [com.viewpagerindicator:library:2.4.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/library-2.4.1.aar/5124e26f8775a9804df4c83d5b0c2402/AndroidManifest.xml:1:107-4:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/bbbd57c5f65da247526cda8df0d55480/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b7c77f41b29993ad295f6d2ea2bc0f9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c0f4150695ead0dd01c774d66b335fe5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2d529765e30778536824c7b7db3814af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f5ee35e85bdcbefcdda669bbaf7c7575/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5706b72ca5fbc3e0a03b68c504888c03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/50295921ea93a18315ba293b2ba4ac62/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e5f146d69267cb9ed7804346e5fa62d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/127a9ca71076005fe8053c56760a8a1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/992407a62194bc41b39366877b15ba1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f5e243d943cc0b106a605e20fd40e933/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/681bdfce1c644680b230fbd9945c4097/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0949814cb5a6d716a82c9c777d6d20c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/422e7ba282453a293f258fbff99f4907/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/01f15bca676803435fcdda407be4f527/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5477aee504633cec7cd95f20d8afc98a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/54aa333a7942a662bd7b7da9cc3e8dae/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/591baef8425c3d4b54f2e87964961b99/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/980a35c5f134a89f9f845f5fe1bf559a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9607d260c63d067cdf6281d9c94748e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4363ca5405d6a70b66d72bf613d27fbd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3ccd1b0a31c7d12d681db206a1485ced/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/26b159bf8794ec6fad6b897f47e2ca56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e6743cc901a97e4eda1112268d8dcee7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/200cf72257ea014ae6a9d5cc1d581183/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bf964d429bbb987f02489a0accab2fc2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/da49558126484d3aa3bc6e48f65dbedf/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:2:1-98:12
+	package
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:2:1-98:12
+		INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:2:1-98:12
+		INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:9:22-77
+uses-feature#android.hardware.camera.any
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:11:5-64
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:11:19-61
+uses-feature#android.hardware.camera
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:12:5-14:35
+	android:required
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:14:9-32
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:13:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:16:9-57
+uses-feature#0x00010100
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:18:5-54
+	android:glEsVersion
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:18:19-51
+supports-screens
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:20:5-25:40
+	android:largeScreens
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:22:9-36
+	android:smallScreens
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:24:9-36
+	android:normalScreens
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:23:9-37
+	android:xlargeScreens
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:25:9-37
+	android:anyDensity
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:21:9-34
+application
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:27:5-96:19
+MERGED from [:base] /Users/alok/AndroidStudioProjects/ARMusicKit/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-14:19
+MERGED from [:base] /Users/alok/AndroidStudioProjects/ARMusicKit/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5477aee504633cec7cd95f20d8afc98a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5477aee504633cec7cd95f20d8afc98a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/54aa333a7942a662bd7b7da9cc3e8dae/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/54aa333a7942a662bd7b7da9cc3e8dae/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5477aee504633cec7cd95f20d8afc98a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from [:base] /Users/alok/AndroidStudioProjects/ARMusicKit/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:31:9-41
+	android:largeHeap
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:32:9-33
+	android:icon
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:30:9-38
+	android:allowBackup
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:29:9-35
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:28:9-60
+activity#com.yurisuzuki.CameraActivity
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:35:9-43:20
+	android:screenOrientation
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:38:13-50
+	android:label
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:37:13-45
+	android:theme
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:39:13-47
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:36:13-57
+activity#org.artoolkit.ar.base.camera.CameraPreferencesActivity
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:44:9-45:85
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:45:13-82
+activity#com.yurisuzuki.EntryActivity
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:47:9-58:20
+	android:screenOrientation
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:50:13-49
+	android:theme
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:49:13-47
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:48:13-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:52:13-55:29
+action#android.intent.action.MAIN
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:54:27-74
+activity#com.yurisuzuki.MainActivity
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:59:9-65:20
+	android:screenOrientation
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:62:13-49
+	android:theme
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:61:13-47
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:60:13-55
+activity#com.yurisuzuki.ActivityIntro
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:67:9-70:51
+	android:screenOrientation
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:70:13-49
+	android:theme
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:69:13-47
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:68:13-56
+activity#com.yurisuzuki.ActivityMakeMarkerTop
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:72:9-75:51
+	android:screenOrientation
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:75:13-49
+	android:theme
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:74:13-47
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:73:13-64
+activity#com.yurisuzuki.ActivityMakeMarkerTrace
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:77:9-80:51
+	android:screenOrientation
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:80:13-49
+	android:theme
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:79:13-47
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:78:13-66
+activity#com.yurisuzuki.ActivityAbout
+ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:82:9-85:51
+	android:screenOrientation
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:85:13-49
+	android:theme
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:84:13-47
+	android:name
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml:83:13-56
+uses-sdk
+INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/bef0fd8bb857fdb3645403d1c6469612/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/bef0fd8bb857fdb3645403d1c6469612/AndroidManifest.xml:20:5-44
+MERGED from [:base] /Users/alok/AndroidStudioProjects/ARMusicKit/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:base] /Users/alok/AndroidStudioProjects/ARMusicKit/base/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/77a182e6b48f5a18f3dc090dc7029640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/77a182e6b48f5a18f3dc090dc7029640/AndroidManifest.xml:20:5-44
+MERGED from [com.viewpagerindicator:library:2.4.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/library-2.4.1.aar/5124e26f8775a9804df4c83d5b0c2402/AndroidManifest.xml:3:5-42
+MERGED from [com.viewpagerindicator:library:2.4.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/library-2.4.1.aar/5124e26f8775a9804df4c83d5b0c2402/AndroidManifest.xml:3:5-42
+MERGED from [com.android.support:support-v4:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/bbbd57c5f65da247526cda8df0d55480/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/bbbd57c5f65da247526cda8df0d55480/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b7c77f41b29993ad295f6d2ea2bc0f9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b7c77f41b29993ad295f6d2ea2bc0f9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c0f4150695ead0dd01c774d66b335fe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c0f4150695ead0dd01c774d66b335fe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2d529765e30778536824c7b7db3814af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2d529765e30778536824c7b7db3814af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f5ee35e85bdcbefcdda669bbaf7c7575/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f5ee35e85bdcbefcdda669bbaf7c7575/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5706b72ca5fbc3e0a03b68c504888c03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5706b72ca5fbc3e0a03b68c504888c03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/50295921ea93a18315ba293b2ba4ac62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/50295921ea93a18315ba293b2ba4ac62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e5f146d69267cb9ed7804346e5fa62d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e5f146d69267cb9ed7804346e5fa62d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/127a9ca71076005fe8053c56760a8a1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/127a9ca71076005fe8053c56760a8a1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/992407a62194bc41b39366877b15ba1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/992407a62194bc41b39366877b15ba1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f5e243d943cc0b106a605e20fd40e933/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f5e243d943cc0b106a605e20fd40e933/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/681bdfce1c644680b230fbd9945c4097/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/681bdfce1c644680b230fbd9945c4097/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0949814cb5a6d716a82c9c777d6d20c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0949814cb5a6d716a82c9c777d6d20c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/422e7ba282453a293f258fbff99f4907/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/422e7ba282453a293f258fbff99f4907/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/01f15bca676803435fcdda407be4f527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/01f15bca676803435fcdda407be4f527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5477aee504633cec7cd95f20d8afc98a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5477aee504633cec7cd95f20d8afc98a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/54aa333a7942a662bd7b7da9cc3e8dae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/54aa333a7942a662bd7b7da9cc3e8dae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/591baef8425c3d4b54f2e87964961b99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/591baef8425c3d4b54f2e87964961b99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/980a35c5f134a89f9f845f5fe1bf559a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/980a35c5f134a89f9f845f5fe1bf559a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9607d260c63d067cdf6281d9c94748e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9607d260c63d067cdf6281d9c94748e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4363ca5405d6a70b66d72bf613d27fbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4363ca5405d6a70b66d72bf613d27fbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3ccd1b0a31c7d12d681db206a1485ced/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3ccd1b0a31c7d12d681db206a1485ced/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/26b159bf8794ec6fad6b897f47e2ca56/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/26b159bf8794ec6fad6b897f47e2ca56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e6743cc901a97e4eda1112268d8dcee7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alok/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e6743cc901a97e4eda1112268d8dcee7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/200cf72257ea014ae6a9d5cc1d581183/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/200cf72257ea014ae6a9d5cc1d581183/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bf964d429bbb987f02489a0accab2fc2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bf964d429bbb987f02489a0accab2fc2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/da49558126484d3aa3bc6e48f65dbedf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alok/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/da49558126484d3aa3bc6e48f65dbedf/AndroidManifest.xml:20:5-44
+INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alok/AndroidStudioProjects/ARMusicKit/app/src/main/AndroidManifest.xml

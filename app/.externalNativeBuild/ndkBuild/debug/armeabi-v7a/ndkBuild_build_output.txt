@@ -1,0 +1,9 @@
+rm -f /Users/alok/AndroidStudioProjects/ARMusicKit/app/build/intermediates/ndkBuild/debug/lib/armeabi-v7a/*
+rm -f /Users/alok/AndroidStudioProjects/ARMusicKit/app/build/intermediates/ndkBuild/debug/lib/armeabi-v7a/gdbserver
+rm -f /Users/alok/AndroidStudioProjects/ARMusicKit/app/build/intermediates/ndkBuild/debug/lib/armeabi-v7a/gdb.setup
+mkdir -p /Users/alok/AndroidStudioProjects/ARMusicKit/app/build/intermediates/ndkBuild/debug/lib/armeabi-v7a
+echo [armeabi-v7a] "Gdbserver      ": "[arm-linux-androideabi] /Users/alok/AndroidStudioProjects/ARMusicKit/app/build/intermediates/ndkBuild/debug/lib/armeabi-v7a/gdbserver"
+install -p /Users/alok/Library/Android/sdk/ndk-bundle/prebuilt/android-arm/gdbserver/gdbserver /Users/alok/AndroidStudioProjects/ARMusicKit/app/build/intermediates/ndkBuild/debug/lib/armeabi-v7a/gdbserver
+echo [armeabi-v7a] "Gdbsetup       ": "/Users/alok/AndroidStudioProjects/ARMusicKit/app/build/intermediates/ndkBuild/debug/lib/armeabi-v7a/gdb.setup"
+echo "set solib-search-path /Users/alok/AndroidStudioProjects/ARMusicKit/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a" > /Users/alok/AndroidStudioProjects/ARMusicKit/app/build/intermediates/ndkBuild/debug/lib/armeabi-v7a/gdb.setup
+echo "directory /Users/alok/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot /Users/alok/Library/Android/sdk/ndk-bundle/sources/cxx-stl/system" >> /Users/alok/AndroidStudioProjects/ARMusicKit/app/build/intermediates/ndkBuild/debug/lib/armeabi-v7a/gdb.setup

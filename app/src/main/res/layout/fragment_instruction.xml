@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yurisuzuki.view.SlidingFrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    >
+
+    <ImageView
+        android:id="@+id/inst_illust"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:adjustViewBounds="true"
+        android:layout_marginLeft="38dp"
+        android:layout_marginRight="38dp"
+        android:layout_gravity="center_vertical"
+        android:contentDescription="@string/none"
+        android:scaleType="centerInside"
+        android:src="@drawable/inst_guitar_0"
+        />
+
+
+    <com.yurisuzuki.view.TextViewHelveticaNeueLt
+        android:id="@+id/inst_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_gravity="bottom"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="40dp"
+        android:text="Some description here."
+        android:textColor="@android:color/black"
+        android:textSize="22sp"
+        android:textStyle="normal"
+        />
+
+
+</com.yurisuzuki.view.SlidingFrameLayout>
